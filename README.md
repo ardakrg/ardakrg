@@ -25,4 +25,4 @@ Computer Science student at TU Darmstadt (B.Sc.) interested in full-stack develo
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/arda-kuruoglu-aab99612b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arda-kuruoglu-aab99612b)
