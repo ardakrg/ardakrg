@@ -19,7 +19,7 @@ Computer Science student at TU Darmstadt (B.Sc.) interested in full-stack develo
 
 | Project | Description | Tech |
 |---|---|---|
-| [ScanTeX](https://github.com/ardakrg/ScanTeX) | AI-powered handwritten formula to LaTeX converter | Next.js, TypeScript |
+| [ScanTeX](https://github.com/ardakrg/ScanTeX) | AI-powered handwritten formula to LaTeX converter | Next.js |
 | [SMP Backend](https://github.com/ardakrg/smp-backend) | REST API for TU Darmstadt physics lecture event management | Node.js, PostgreSQL, Docker |
 | [SMP Frontend](https://github.com/ardakrg/smp-frontend) | Web app for TU Darmstadt physics lecture event management | React, TypeScript |
 
